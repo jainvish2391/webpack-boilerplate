@@ -1,0 +1,60 @@
+[   
+    {
+        "palette": {
+            "primary": {
+                "main": "#3A807F"
+            },
+            "secondary": {
+                "main": "#DC613F"
+            },
+            "warning": {
+                "main": "#DC613F"
+            },
+            "error": {
+                "main": "#FF3B30"
+            },
+            "background": {
+                "default": "#F8F5F2"
+            },
+            "primary2": {
+                "text": "#DC613F"
+            }
+        },
+        "overrides": {
+            "MuiButton": {
+                "containedSecondary": {
+                    "color": "#3A807F"
+                }
+            }
+        }
+    },
+    {
+        "palette": {
+            "primary": {
+                "main": "#CC0000"
+            },
+            "secondary": {
+                "main": "#FCFCFC"
+            },
+            "background": {
+                "default": "#F8F5F2"
+            }
+        }
+    },
+    {
+        "palette": {
+            "primary": {
+                "main": "#76b900"
+            },
+            "secondary": {
+                "main": "#000"
+            },
+            "background": {
+                "default": "#F8F5F2"
+            }
+        },
+        "typography": {
+            "fontFamily": "Comic Sans MS"
+        }
+    }
+]
